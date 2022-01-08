@@ -25,7 +25,7 @@ Photos that I created or edited using Photoshop
 ![](COE_Photos/Bussiness_Card_Front.png)
 ![](COE_Photos/Bussiness_Card_Back.png)
 ![](COE_Photos/Flyer-A4.jpg)
-![](COE_Photos/Background-Removed_and_Resized_Ima.png)
+![](COE_Photos/Background-Removed_and_Resized_Samantha.png)
 ![](COE_Photos/Alphabet.jpg)
 ![](COE_Photos/Patee_Design_02.jpg)
 ![](COE_Photos/Black-Swordman.jpg)
