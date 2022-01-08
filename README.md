@@ -14,7 +14,7 @@ Photos that I created or edited using Photoshop
 ![](COE_Photos/Landscape-Manipulation.jpg)
 ![](COE_Photos/Image_Manipulated_with_Layer_Mask_02.jpg)
 ![](COE_Photos/Wallpaper_Modified_Using_Fairy.jpg)
-![](COE_Photos/Image-Mani-01.jpg)
+![](COE_Photos/Image_Manipulation_01_Island_in_Bottle.png)
 ![](COE_Photos/Landscape_Design_01.jpg)
 ![](COE_Photos/Landscape_Design_02.jpg)
 ![](COE_Photos/Cliping-Mask.jpg)
